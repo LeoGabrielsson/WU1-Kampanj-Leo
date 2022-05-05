@@ -3,7 +3,7 @@
 Skriv ned tema, färger, vad handlar din text om.
 Skapa 
 
-* färger #9A348E #F4F4F9 #333333
+* färger #242038 #F7F9F7 #00B1CC #FAA00F
 * bilder ikoner
 * typsnitt
 * former
