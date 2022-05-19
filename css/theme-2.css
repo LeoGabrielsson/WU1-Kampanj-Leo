@@ -10,6 +10,7 @@ body {
     color: var(--color-light);
 }
 
+
 .hero {
     min-height: 60vh;
     grid-template-columns: 1fr 1fr;
@@ -121,6 +122,13 @@ q {
     color: var(--color-dark)
 }
 .btn:hover {
+    color: var(--color-light);
+}
+.tinybtn {
+    font-size: 1.5rem;
+    color: var(--color-dark)
+}
+.tinybtn:hover {
     color: var(--color-light);
 }
 
